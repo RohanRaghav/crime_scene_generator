@@ -1,0 +1,34 @@
+﻿fact_id,fact,reasoning
+1,Circular bloodstain with smooth edges,Victim was stationary when the blood dropped; blood fell vertically at 90 degrees.
+2,Elliptical bloodstain with pointed end,Blood hit the surface at an angle; indicates direction of movement of bleeding person or weapon.
+3,Multiple small circular blood drops forming a trail,Victim was walking or moving slowly while bleeding; trail shows direction of movement.
+4,Blood spatter in a radiating pattern from a single point,"High-velocity impact (e.g., gunshot) or arterial spray; origin is at the center of the pattern."
+5,Cast-off bloodstains forming arcs,Weapon was swung and flung blood; arcs indicate motion and number of swings.
+6,Bloodstain with spikes or protrusions on the edge,Blood hit surface with greater force or irregularities; indicates movement or textured impact surface.
+7,Blood smeared in a single direction,Victim or object moved through the blood; direction of smear shows movement.
+8,Voids or clean areas within a blood spatter,Object or person blocked the path of the blood; may indicate presence and position at time of spatter.
+9,Diluted or light-colored bloodstain,Blood was exposed to water or another liquid; may indicate cleanup attempt or environmental exposure.
+10,Saturated blood pool with no trail,Victim was immobile for an extended time at that location; may indicate point of collapse or death.
+11,Projected blood in upward direction on walls or ceiling,"Indicates forceful upward projection, likely from arterial spray or explosive injury."
+12,Blood transfer pattern shaped like a hand or footprint,A bloody hand or foot contacted the surface; provides direction and movement of person.
+13,Multiple overlapping stains of different sizes,Indicates multiple impacts or stages of events; may show struggle or prolonged violence.
+14,Blood found on ceiling in small droplets,Arterial spray or high-velocity spatter from upward injury or gunshot.
+15,Drip stain leading to a void and continued trail,"Person stopped momentarily, possibly paused or changed direction."
+16,A whorl fingerprint pattern is found in about 30% of people.,Whorl patterns contain circular or spiral characteristics which are genetically inherited.
+17,Latent prints are invisible to the naked eye but can be revealed using powders.,Oils and sweat residues left behind can be adhered to using fine fingerprint powders.
+18,Loop patterns are the most common fingerprint type.,"Loop prints enter from one side, curve around, and exit the same side."
+19,Gunshot residue on a suspect's hand indicates they recently fired a weapon.,Discharge from firearms leaves particulate residues on skin or clothing.
+20,Entry wounds are typically smaller and more circular than exit wounds.,"Bullets push tissue outward upon exit, creating larger openings."
+21,Rifling marks on a bullet can match it to a specific firearm.,Grooves and lands inside the barrel leave unique striations on bullets.
+22,Mitochondrial DNA is useful in identifying remains when nuclear DNA is degraded.,It is inherited maternally and remains intact in old or damaged samples.
+23,Touch DNA can be collected from objects handled by a suspect.,Skin cells shed naturally and can be left behind on surfaces.
+24,DNA evidence can exonerate the wrongly accused.,Unique genetic profiles provide strong evidence of presence or absence.
+25,Deleted files can often be recovered from digital devices.,Data is not always erased immediately and can remain in memory sectors.
+26,IP addresses can help trace the origin of online activity.,Every connected device has a unique address assigned by the network.
+27,"Metadata in photos can reveal time, date, and GPS location.",Digital cameras embed data in image files that can be used as evidence.
+28,High levels of carbon monoxide in blood suggest death by inhalation.,"CO binds with hemoglobin more effectively than oxygen, leading to suffocation."
+29,Presence of ethanol and metabolites indicates alcohol consumption.,Ethanol is metabolized in the liver producing recognizable byproducts.
+30,A bluish discoloration under nails may suggest cyanide poisoning.,"Cyanide disrupts cellular respiration, leading to oxygen deprivation."
+31,Paint chips can be used to identify hit-and-run vehicles.,Automotive paints have layered compositions traceable to manufacturers.
+32,Fibers on a victim's body can connect them to a location or suspect.,Microscopic examination of weave patterns and material types aids identification.
+33,Glass fragments can show direction of impact.,Radial and concentric fracture patterns indicate force direction.
